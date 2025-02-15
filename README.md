@@ -1,6 +1,6 @@
-# Data Science And Big Data Analytics  Assignments
+# Data Science And Big Data Analytics Assignments
 
-This repository contains the solutions for a series of assignments covering Big Data Analytics and Machine Learning concepts. The assignments are divided into three groups:
+This repository contains the solutions for a series of assignments covering Data Science And Big Data Analytics concepts. The assignments are divided into three groups:
 
 **Group A: Hadoop Ecosystem**
 
